@@ -1,42 +1,77 @@
 native_country,full_name,GDP,Population
-Philippines,Republic of the Philippines,376795508680,108116615
-Germany,Federal Republic of Germany,3845630030824,83132799
+Philippines,Republic of the Philippines,3.76796E+11,108116615
+Germany,Federal Republic of Germany,3.84563E+12,83132799
 Cambodia,Kingdom of Cambodia,27089389787,16486542
-France,French Republic,2715518274227,67059887
-Greece,Hellenic Republic,209852761469,10716322
-Taiwan,Taiwan,473971000000,23340136
-Ecuador,Ecuador,107435665000,17373662
+France,French Republic,2.71552E+12,67059887
+Greece,Hellenic Republic,2.09853E+11,10716322
+Taiwan,Taiwan,4.73971E+11,23340136
+Ecuador,Ecuador,1.07436E+11,17373662
 Nicaragua,Republic of Nicaragua,12520915291,6545502
-Hong,Hong Kong Special Administrative Region,366029556273,7507400
-Peru,Republic of Peru,226848050820,32510453
-India,Republic of India,2611000000000,1366417754
-China,People's Republic of China,18460000000000,1397715000
-Italy,Italian Republic,2001244392042,60297396
-Holand-Netherlands,Netherlands,909070395161,17332850
-Cuba,Republic of Cuba,100023000000,11333483
-South,Republic of Korea,2029000000000,51709098
-Iran,Islamic Republic of Iran,445345282123,82913906
-Ireland,Ireland,388698711348,5007069
-Thailand,Kingdom of Thailand,543649976166,69625582
+Hong,Hong Kong Special Administrative Region,3.6603E+11,7507400
+Peru,Republic of Peru,2.26848E+11,32510453
+India,Republic of India,2.611E+12,1366417754
+China,People's Republic of China,1.846E+13,1397715000
+Italy,Italian Republic,2.00124E+12,60297396
+Holand-Netherlands,Netherlands,9.0907E+11,17332850
+Cuba,Republic of Cuba,1.00023E+11,11333483
+South,Republic of Korea,2.029E+12,51709098
+Iran,Islamic Republic of Iran,4.45345E+11,82913906
+Ireland,Ireland,3.88699E+11,5007069
+Thailand,Kingdom of Thailand,5.4365E+11,69625582
 Laos,Lao People's Democratic Republic,18173839128,7169455
 El-Salvador,Republic of El Salvador,27022640000,6453553
-Mexico,Mexico,1258286717125,126014024
+Mexico,Mexico,1.25829E+12,126014024
 Guatemala,Republic of Guatemala,76710385880,16604026
 Honduras,Republic of Honduras,25095395475,9746117
 Yugoslavia,Republic of Croatia,60415553039,4067500
-Puerto-Rico,Commonwealth of Puerto Rico,104988600000,3193694
+Puerto-Rico,Commonwealth of Puerto Rico,1.04989E+11,3193694
 Jamaica,Jamaica,16458071068,2948279
-Canada,Canada,1736425629520,36991981
-United-States,United States of America,24800000000000,328239523
+Canada,Canada,1.73643E+12,36991981
+United-States,United States of America,2.48E+13,328239523
 Dominican-Republic,Dominican Republic,88941298258,10738958
 Outlying-US(Guam-USVI-etc),Territory of Guam,5920000000,168801
-Japan,Japan,5081769542380,126226568
-England,United Kingdom of Great Britain and Northern Ireland,2827113184696,66834405
+Japan,Japan,5.08177E+12,126226568
+England,United Kingdom of Great Britain and Northern Ireland,2.82711E+12,66834405
 Haiti,Republic of Haiti,8498981821,11263077
-Poland,Republic of Poland,592164400688,37970874
-Portugal,Portugal,237686075635,10269417
-Columbia,Colombia,323802808108,50339443
-Scotland,United Kingdom of Great Britain and Northern Ireland,2827113184696,66834405
-Hungary,Hungary,160967157504,9769949
-Vietnam,Socialist Republic of Vietnam,261921244843,96462106
+Poland,Republic of Poland,5.92164E+11,37970874
+Portugal,Portugal,2.37686E+11,10269417
+Columbia,Colombia,3.23803E+11,50339443
+Scotland,United Kingdom of Great Britain and Northern Ireland,2.82711E+12,66834405
+Hungary,Hungary,1.60967E+11,9769949
+Vietnam,Socialist Republic of Vietnam,2.61921E+11,96462106
 Trinadad&Tobago,Republic of Trinidad and Tobago,24100202834,1394973
+Russia,Russia," $1,699,876,578,871 ","144,373,535"
+United Kingdom,United Kingdom," $2,827,113,184,696 ","66,834,405"
+Spain,Spain," $1,394,116,310,769 ","47,076,781"
+Ukraine,Ukraine," $153,781,069,118 ","44,385,155"
+Romania,Romania," $250,077,444,017 ","19,356,544"
+Netherlands,Netherlands," $909,070,395,161 ","17,332,850"
+Belgium,Belgium," $529,606,710,418 ","11,484,055"
+Czech Republic,Czech Republic," $246,489,245,495 ","10,669,709"
+Sweden,Sweden," $530,832,908,738 ","10,285,453"
+Belarus,Belarus," $63,080,457,023 ","9,466,856"
+Austria,Austria," $446,314,739,528 ","8,877,067"
+Serbia,Serbia," $51,409,167,351 ","6,944,975"
+Switzerland,Switzerland," $703,082,435,360 ","8,574,832"
+Bulgaria,Bulgaria," $86,000,000,000 ","6,975,761"
+Denmark,Denmark," $348,078,018,464 ","5,818,553"
+Finland,Finland," $268,761,201,365 ","5,520,314"
+Slovakia,Slovakia," $105,422,304,976 ","5,454,073"
+Norway,Norway," $403,336,363,636 ","5,347,896"
+Croatia,Croatia," $60,415,553,039 ","4,067,500"
+Moldova,Moldova," $11,955,435,457 ","2,657,637"
+Bosnia and Herzegovina,Bosnia and Herzegovina," $20,047,848,435 ","3,301,000"
+Albania,Albania," $15,278,077,447 ","2,854,191"
+Lithuania,Lithuania," $54,219,315,600 ","2,786,844"
+Republic of North Macedonia,Republic of North Macedonia," $10,220,781,069 ","1,836,713"
+Slovenia,Slovenia," $53,742,159,517 ","2,087,946"
+Latvia,Latvia," $34,117,202,555 ","1,912,789"
+Estonia,Estonia," $31,386,949,981 ","1,326,590"
+Montenegro,Montenegro," $5,494,736,901 ","622,137"
+Luxembourg,Luxembourg," $71,104,919,108 ","619,896"
+Malta,Malta," $14,786,156,563 ","502,653"
+Iceland,Iceland," $24,188,035,739 ","361,313"
+Andorra,Andorra," $3,154,057,987 ","77,142"
+Monaco,Monaco," $7,184,844,193 ","38,964"
+Liechtenstein,Liechtenstein," $6,552,858,739 ","38,019"
+San Marino,San Marino," $1,637,931,034 ","33,860"
